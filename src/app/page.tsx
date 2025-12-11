@@ -41,7 +41,7 @@ export default function LandingPage() {
       <div id="hero" data-section="hero">
         <HeroLogoBillboardSplit
           logoText="CASALE"
-          description="hello world!"
+          description="Benvenuti nel vostro rifugio di lusso sulle sponde del Lago Martignano"
           buttons={[
             { text: "Prenota Ora", href: "#contact" },
             { text: "Scopri di Più", href: "#about" }
