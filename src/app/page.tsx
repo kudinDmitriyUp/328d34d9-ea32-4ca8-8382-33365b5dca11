@@ -41,7 +41,7 @@ export default function LandingPage() {
       <div id="hero" data-section="hero">
         <HeroLogoBillboardSplit
           logoText="CASALE"
-          description="Scopri il lusso e l'ospitalità autentica sulle sponde del Lago Martignano. Un'oasi di tranquillità con camere eleganti e una cucina italiana raffinata."
+          description="hello world!"
           buttons={[
             { text: "Prenota Ora", href: "#contact" },
             { text: "Scopri di Più", href: "#about" }
