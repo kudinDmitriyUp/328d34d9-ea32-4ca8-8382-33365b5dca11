@@ -41,7 +41,7 @@ export default function LandingPage() {
       <div id="hero" data-section="hero">
         <HeroLogoBillboardSplit
           logoText="CASALE"
-          description="Hello world!"
+          description="Esperienza di lusso autentica sulle rive incontaminate del Lago Martignano, dove l'eleganza italiana incontra la tranquillità della natura"
           buttons={[
             { text: "Prenota Ora", href: "#contact" },
             { text: "Scopri di Più", href: "#about" }
